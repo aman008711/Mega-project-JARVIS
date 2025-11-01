@@ -6,5 +6,5 @@ apps = {
     "explorer": "C:\\Windows\\explorer.exe",
     "control panel": "C:\\Windows\\System32\\control.exe",
     "cmd": "C:\\Windows\\System32\\cmd.exe",
-    "settings": "ms-settings:",
+    "settings": "ms-settings:"
 } 
